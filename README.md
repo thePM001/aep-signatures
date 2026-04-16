@@ -1,12 +1,11 @@
 # AEP Signatures
 
 Detection signatures for the Agent Element Protocol (AEP). Authored and
-curated by EPSCOM (Element Protocol Safety Committee), a working group of
-New Lisbon Agency.
+curated by EPSCOM (Eudaimonic Earth Post-Scarcity Committee).
 
 ## Status
 
-Pre-v1.0. Signature format and trust-bundle layout are still being finalised.
+Pre-v1.0. Signature format and trust-bundle layout are still being finalized.
 Early adopters are welcome to subscribe and send feedback via issues.
 
 ## Layout

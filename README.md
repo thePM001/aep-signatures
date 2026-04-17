@@ -6,7 +6,6 @@ curated by EPSCOM (Eudaimonic Earth Post-Scarcity Committee).
 ## Status
 
 Pre-v1.0. Signature format and trust-bundle layout are still being finalized.
-Early adopters are welcome to subscribe and send feedback via issues.
 
 ## Layout
 
@@ -38,8 +37,8 @@ official committee seat) are governed by the name policy at
 
 ## Contributing Signatures
 
-Signature authorship is currently limited to EPSCOM members and invited
-reviewers. External contributions are welcomed as issues describing the
+Signature authorship is limited to EPSCOM members. 
+External contributions are welcomed as issues describing the
 threat pattern you want covered; EPSCOM will draft the signature and
 attribute the reporter in the signature metadata.
 

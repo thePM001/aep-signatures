@@ -5,7 +5,7 @@ curated by EPSCOM (Eudaimonic Earth Post-Scarcity Committee).
 
 ## Status
 
-Pre-v1.0. Signature format and trust-bundle layout are still being finalized.
+AEP 2.8.6 release line. Signature format and trust-bundle layout are still being finalized.
 
 ## Layout
 
